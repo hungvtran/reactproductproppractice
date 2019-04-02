@@ -1,2 +1,0 @@
-# reactproductproppractice
-Created with CodeSandbox
